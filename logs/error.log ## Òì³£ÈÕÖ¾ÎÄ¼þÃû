@@ -1,0 +1,4 @@
+2014-10-19 17:28:37  [ main:0 ] - [ DEBUG ]  Test Debug
+2014-10-19 17:28:37  [ main:33 ] - [ INFO ]  Test info
+2014-10-19 17:28:37  [ main:34 ] - [ ERROR ]  Test error
+2014-10-19 17:28:37  [ main:34 ] - [ INFO ]  Test Over!
